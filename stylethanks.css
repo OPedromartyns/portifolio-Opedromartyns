@@ -1,0 +1,15 @@
+body{
+    background-color: #1f1f1f  ;
+}
+h1, h2, p{ color: #ffffff ;
+    font-family: var(--ff-roboto)
+}
+
+div{
+    text-align: center;
+    
+}
+img{
+    height: 100px;
+    
+}
